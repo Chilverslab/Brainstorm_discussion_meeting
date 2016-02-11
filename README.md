@@ -14,3 +14,7 @@ For now we are thinking on Friday or Tuesday around 3 pm or at 1 pm, whatever yo
 The idea is to rotate on the different options to cover different formats.
 
 Once, we decided on a time for the meeting, I will post an schedule so anyone interested can sign in.  It is not an obligation, but the idea is to get most feedback that you can from your collegues, providing support on draft papers, enagging on discussions, and having a __positive__ influence on each other research.
+
+This is the link for the [poll](https://github.com/Chilverslab/Brainstorm_discussion_meeting).  Please vote for the most convenient time.
+
+
