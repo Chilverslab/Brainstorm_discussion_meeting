@@ -10,8 +10,10 @@ The idea is to keep this venue open to any suggestions, and try to give feedback
 
 It is not an obligation, but the idea is to get most feedback that you can from your collegues, providing support on draft papers, engaging on discussions, and having a __positive and constructive__ influence on each other research.
 
-This is the link for the schedule:
+The meeting is __bi-weekly at noon on Tuesday's in CIPS conference room.__  We can have at most two people presenting per meeting.
 
-![schedule](https://docs.google.com/spreadsheets/d/1W4adiPbsJRdJEmszg3ITWhxJpNlGavV1egcj0KcxfNo/pubhtml?gid=1386834576&single=true)
+This is the link for the [schedule](https://docs.google.com/spreadsheets/d/1W4adiPbsJRdJEmszg3ITWhxJpNlGavV1egcj0KcxfNo/edit?usp=sharing).
+
+<iframe src="https://docs.google.com/spreadsheets/d/1W4adiPbsJRdJEmszg3ITWhxJpNlGavV1egcj0KcxfNo/pubhtml?gid=1386834576&single=true" width="480" height="500"></iframe>
 
 
