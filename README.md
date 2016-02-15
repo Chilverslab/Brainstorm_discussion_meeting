@@ -8,10 +8,10 @@
 
 The idea is to keep this venue open to any suggestions, and try to give feedback to each other on the different projects and keep learning from each other.
 
-For now we are thinking on Friday or Tuesday around noon, 1 pm, or 3 pm, whatever you guys prefer and we can have an hour long discussion on any of the suggested topics.
+It is not an obligation, but the idea is to get most feedback that you can from your collegues, providing support on draft papers, engaging on discussions, and having a __positive and constructive__ influence on each other research.
 
-Once, we decide on a time for the meeting, I will post an schedule so anyone interested can sign in.  It is not an obligation, but the idea is to get most feedback that you can from your collegues, providing support on draft papers, engaging on discussions, and having a __positive and cosntructive__ influence on each other research.
+This is the link for the schedule:
 
-This is the link for the [poll](http://doodle.com/poll/kn9vrhyxhffdurr5).  Please vote for the most convenient time.
+![schedule](https://docs.google.com/spreadsheets/d/1W4adiPbsJRdJEmszg3ITWhxJpNlGavV1egcj0KcxfNo/pubhtml?gid=1386834576&single=true)
 
 
